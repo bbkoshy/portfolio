@@ -1,7 +1,7 @@
 # portfolio
 10 best ux portfolios and why:
 
-1. http://fla.my/ - While this website doesn’t cater to my personal taste, I love that they made this so uniquely them. I love the visual reinforcement in the hero image of what they do. etc., They’ve clearly identified their brand whilst showcasing their portfolio. 
+1. http://fla.my/ - While this website doesn’t cater to my personal taste, I love that they made this so uniquely them. I love the visual reinforcement in the hero image of what they do. etc., They’ve clearly identified their brand whilst showcasing their portfolio.
 2. http://mirohristov.com/v5/# - great graphics. I love the visual I get when I first visited this website. My first thought was “ Cool, I wanna learn how to do that!” I have placed immediate faith in this developer’s skills.
 3. http://www.helloimcody.com/ - You are greeted immediately with this developer’s philosophy and how he incorporates who he is into his designs. I LOVED THAT.
 4. http://leodrapeau.com/ - This portfolio felt very earnest, simple, and pure to me. He doesn’t try to overcomplicate things
@@ -24,3 +24,19 @@
 3. http://mikehince.com/about/ - It doesn’t seem personal. It’s too bland for my taste. I want a peek of this designer’s personality.
 4. http://theworstportfolioever.com/ - self explanatory.
 5. http://www.zekeshore.com/ - doesn’t have much personality, website feels outdated.
+
+
+
+Personal Wordlist:
+
+quirky
+dry
+witty
+artistic
+unorthodox
+goal-oriented
+ideation
+strong
+giggles
+theatric
+joy
